@@ -1,0 +1,14 @@
+let a = 1
+let s = "ukd"
+let d = NaN
+let f = true
+let g = "undefined"
+
+let hj = {
+name: "S_0ne",
+surname: "Sasha",
+age: 17,
+home: "Ukraine"
+}
+console.log(a, s, d, f, g)
+console.table(hj)
